@@ -1,0 +1,396 @@
+body
+{
+margin : 0px;
+}
+
+
+
+
+
+
+
+p1{
+    display: block;
+    background-color : white;
+    margin-left : auto;
+    margin-right : auto;
+    right : 15px;
+    z-index : 1;
+    height : 500px;
+    color : red;
+    text-align : center; 
+    
+}
+
+
+
+h5{
+
+
+
+position: absolute;
+
+    
+width: 122px;
+
+text-align : center;
+padding : 16px;
+margin-left : 32%;
+top : 723px;
+color : white;
+border : 1px groove  black;
+border-radius : 2px;
+background : white;
+border-radius : 0spx;
+
+}
+
+
+
+
+
+
+
+
+.btn_contact : hover { background-color: #1d1d1d; color : # ffb42a;}
+.main_footer{
+     background-color: #242424; 
+     color : #fff
+
+}
+
+
+
+
+    
+
+.hearder{
+
+    border : 1px solid white;
+    border-left: 5px;
+    border-right: 5px;
+    border-top : 5px;
+    height: 70px;
+    margin : 0px;
+    text-align : center;
+    
+
+    
+}
+
+
+h6{
+
+
+
+position: absolute;
+
+    
+width: 500px;
+
+text-align : center;
+padding : 10px;
+margin-left : 8%;
+top : 720px;
+color : white;
+border : 1px groove  black;
+border-radius : 2px;
+background : red;
+border-radius : 3px;
+
+}
+
+
+
+
+h1{
+    display: inline-block;
+    bottom : 15px;
+    width : 100 px;
+    border : 2 px solid black;
+    
+    
+
+}
+
+
+
+
+h4{
+
+position: absolute;
+
+    
+width: 170px;
+
+text-align : center;
+padding : 15px;
+margin-left : 42.5%;
+top : 520px;
+color : white;
+
+border-radius : 2px;
+
+
+
+
+}
+
+h3
+{
+
+text-align : center;
+width: 270px;
+height : 100 px;
+border : 1px none  yellow;
+color : black;
+font-size :  large;
+
+
+
+}
+
+
+
+
+
+
+
+
+pre
+{
+
+width: 300px;
+text-align : justify;
+padding : 10px;
+margin : auto;
+color : white;
+
+
+
+}
+
+
+
+
+
+
+
+img{
+display:block;
+margin-right: auto;
+margin-left: auto;
+right : 15px;
+border-radius : 1800px;
+margin-top : 15px;
+
+
+
+}
+
+nav ul{
+    padding: 2px;
+    margin: 20px;
+    list-style-type: auto;
+    letter-spacing : 0.0rem;
+   
+
+   
+}
+nav li{
+    display: inline-block;
+    margin:20px;
+    padding: 10px;
+    width: 100px;
+    height: 80px;
+ 
+    text-align: center;
+    line-height: 20px;
+    letter-spacing : 0.0rem;
+
+    
+}
+
+
+
+
+nav li :hover{
+			
+			
+			
+    background-color: black;
+      text-align : center ;
+      border-radius: 5px;
+
+
+
+
+
+
+}
+
+
+
+
+
+body{
+background-color: #5E0303;
+}
+
+
+
+
+
+nav li a{
+    display:block;
+    text-decoration:none;
+    color: red;
+  
+}
+
+nav li :hover{
+    background-color: black;
+      text-align : center ;
+
+
+
+
+
+
+}
+
+
+
+
+
+.btn_contact : hover { background-color: #1d1d1d; color : # ffb42a;}
+.main_footer{
+     background-color: #242424; 
+     color : #fff
+
+}
+
+
+
+
+button {
+	top:20px;
+    border: 0;
+    background: transparent;
+    color: white;
+    position: relative;
+    overflow: hidden;
+    padding: 10px 25px;
+    border-radius: 30px;
+	margin-left: 20px;
+	text-align: center;
+    cursor: pointer;
+    font-size: 10px;
+    box-shadow: 0px -0px 0px 0px rgba(143, 64, 248, .5), 0px 0px,0px 0px rgba(39, 200, 255, .5);
+    transition: all .2s;
+
+}
+
+button::after {
+    content: "";
+    width: 500px;
+    height: 200px;
+    background: linear-gradient(225deg, #e9e8ef 0%, #090c0d 50%, red);
+    position: absolute;
+    top: -90px;
+    left: -100px;
+    z-index: -1;
+    transition: all .5s;
+
+}
+
+
+button:hover::after {
+    transform: rotate(150deg);
+}
+
+* button:hover {
+    transform: translate(0, -6px);
+    box-shadow: 10px -10px 25px 0 rgba(143, 64, 248, .25), -10px 10px 25px 0px rgba(39, 200, 255, .25);
+}
+
+
+
+.mon.btn{
+	font-size: 4px;
+}
+
+
+
+
+
+/* code du footer */
+
+
+
+
+
+footer{
+    background-color: rgb(235, 235, 242);
+    height: 200px;
+    position: relative;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    font-size: 10px;
+    color: #5E0303;
+}
+
+
+
+
+.image{ 
+    
+    width: auto;
+    display: flex;
+    text-align: center;
+ 
+  
+}
+
+
+.twitter{
+    width: auto;
+    height: 50px;
+    margin-left: 650px;
+    margin-right: 50px;
+    border: 5px solid white;
+    padding: 0%;
+    margin-top: 50px;
+
+  
+}
+
+
+.instagram{
+    
+    width: auto;
+    height: 50px;
+    margin-left: -30px;
+    margin-right: 10px;
+    border: 5px solid white;
+    padding: 0%;
+    margin-top: 50px;
+    
+  
+   
+}
+
+
+.gmail{
+    padding: 0%;
+    width: auto;
+    height: 50px;
+    margin-left: 0px;
+    margin-right: 10px;
+    border: 5px solid white;
+    margin-top: 50px;
+  
+  
+   
+}

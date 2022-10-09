@@ -1,0 +1,253 @@
+
+
+nav ul{
+	padding: 2px;
+	margin: 20px;
+	list-style-type: auto;
+	letter-spacing : 0.0rem;
+    margin-top: 0px;
+			
+
+		   
+}
+		nav li{
+		    display: inline-block;
+		    margin:20px;
+		    padding: 10px;
+		    width: 100px;
+		    height: 80px;
+		 
+		    text-align: center;
+		    line-height: 20px;
+		    letter-spacing : 0.0rem;
+
+		    
+}
+
+
+
+
+nav li a{
+    display:block;
+    text-decoration:none;
+    color: red;
+  
+}
+
+nav li :hover{
+    
+    background-color: black;
+      text-align : center ;
+      border-radius: 5px;
+
+
+
+
+
+
+
+}
+
+.hearder{
+   
+
+border : 1px solid white;
+border-left: 5px;
+border-right: 5px;
+border-top : 5px;
+height: 90px;
+margin : 0px;
+text-align : center;
+background-color: #5E0303;
+margin-top: 0px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+    text-align: center;
+    margin: 0px;
+    
+}
+
+
+
+#bloc1{
+    width: 70%;
+    text-align: center;
+    background-color:  rgb(168, 185, 168);
+    box-shadow: 20px 20px 20px rgb(133, 127, 127);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin: auto;
+
+    color: #5E0303;
+    border-radius: 10px;
+    height: 400px;
+    margin-top: 100px;
+
+  
+   
+}
+.emplacement{
+    
+    margin-top: 15px;
+    text-align: left;
+    margin-left: 100px;
+    margin-top: -20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #5E0303;
+}
+
+.input{
+    
+  
+    text-align: right;
+    margin-right: 90px;
+    margin-top: -110px;
+
+
+}
+
+#input1{
+    width: 500px;
+    margin: 4px;
+    padding: 12px;
+
+
+}
+
+#input{
+    width: 484px;
+    margin: 4px;
+    padding: 20px;
+
+}
+
+
+.btn{
+   
+   margin-left: -95px;
+   
+  
+
+}
+
+h2{
+    
+    color: green;
+    margin-top: 100px;
+    
+    text-align: left;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+
+#mes_images{
+    height: 30px;
+    border-radius: 300px;
+    margin-left: 100px;
+    margin-top: 10px;
+    margin: 0px;
+   
+}
+
+
+.image{
+    text-align: left;
+    margin-left: 100px;
+    margin-top: -10px;
+
+}
+
+
+
+
+                                /* code du footer */
+
+
+
+
+
+footer{
+    background-color:#5E0303;
+    height: 200px;
+    position: relative;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    font-size: large;
+    color: red;
+	margin-top:100px;
+    font-size: 10px;
+}
+
+
+
+
+.image1{ 
+    
+    width: auto;
+    display: inline-block;
+    text-align: center;
+ margin-top: 30px;
+
+ 
+  
+}
+
+
+.twitter{
+    width: auto;
+    height: 50px;
+    margin-left: 650px;
+    margin-right: 50px;
+    border: 5px solid white;
+    padding: 0%;
+    margin-top: 70px;
+
+  
+}
+
+
+.instagram{
+    
+    width: auto;
+    height: 50px;
+    margin-left: -30px;
+    margin-right: 10px;
+    border: 5px solid white;
+    padding: 0%;
+    margin-top: 70px;
+    
+  
+   
+}
+
+
+.gmail{
+    padding: 0%;
+    width: auto;
+    height: 50px;
+    margin-left: 0px;
+    margin-right: 10px;
+    border: 5px solid white;
+    margin-top: 70px;
+  
+  
+   
+}
+
